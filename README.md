@@ -106,7 +106,7 @@ No Docker installation required. The native runner automatically manages virtual
 
 ```bash
 # 1. Navigate to the repository
-cd /Users/shauryashah/AG/security-audit-platform
+cd /Users/USER/AG/security-audit-platform
 
 # 2. Start all services
 ./run_local.sh
